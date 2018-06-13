@@ -3,7 +3,7 @@
 var userData = [
   {
     "name": "Ahmed",
-    "photo": "app/data/images/cool.dude.jpg",
+    "photo": "https://github.com/cbacklund/friend-finder/tree/master/app/images/cool.dude.jpg",
     "scores":[
         5,
       	1,
